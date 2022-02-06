@@ -1,0 +1,3 @@
+anonlink==0.14.2
+clkhash==0.16.1
+pandas==1.3.4
